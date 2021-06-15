@@ -265,6 +265,23 @@ a {
 	cursor: pointer;
 }
 
+.tabs-column2 {
+	flex: 5;
+	margin-left: 150px;
+}
+.tabs-column2-heading {
+	font-size: 1.3rem;
+	margin-bottom: 30px;
+}
+.tabs-column2-text {
+	color: grey;
+	margin-bottom: 20px;
+	line-height: 1.7;
+}
+.tabs-column2-text2 {
+	margin-bottom: 40px;
+}
+
 /* ============== Awesome ============= */
 .awesome-content {
 	padding: 70px 0px;
