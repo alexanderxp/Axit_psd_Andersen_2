@@ -169,6 +169,21 @@ a {
 	background-color: #ea8f4c;
 }
 
+/* === Brand Bar  (or) Social Media === */
+.social-container {
+	border-bottom: 1px solid grey;
+}
+
+.social-text {
+	width: 40%;
+	margin: 0px 20px;
+}
+
+.social-content {
+	padding: 20px 0px;
+	display: flex;
+}
+
 /* ============== Awesome ============= */
 .awesome-content {
 	padding: 70px 0px;
