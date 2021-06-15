@@ -343,6 +343,25 @@ a {
 	max-width: 100%;
 }
 
+/* ======= Features2 (Sublist) ======== */
+
+.sublist-content {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.sublist-img-container {
+	width: 45%;
+}
+.sublist-img {
+	max-width: 100%;
+	margin-left: 20px;
+}
+.sublist-text {
+	width: 45%;
+	margin-right: 20px;
+}
+
 /* ============== Awesome ============= */
 .awesome-content {
 	padding: 70px 0px;
