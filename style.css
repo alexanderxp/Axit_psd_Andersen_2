@@ -184,6 +184,17 @@ a {
 	display: flex;
 }
 
+.social-heading {
+	font-size: 1.1rem;
+	margin-bottom: 5px;
+}
+
+.social-par {
+	font-size: 0.9rem;
+	color: grey;
+}
+
+
 /* ============== Awesome ============= */
 .awesome-content {
 	padding: 70px 0px;
