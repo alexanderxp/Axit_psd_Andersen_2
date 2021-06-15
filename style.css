@@ -362,6 +362,26 @@ a {
 	margin-right: 20px;
 }
 
+.sublist-heading {
+	font-size: 1.3rem;
+	margin-bottom: 20px;
+}
+.sublist-line {
+	height: 2px;
+	width: 10%;
+	background-color: orange;
+	margin-bottom: 20px;
+}
+.sublist-par {
+	color: grey;
+	line-height: 1.7;
+	margin-bottom: 20px;
+}
+.sublist-box {
+	display: flex;	
+	margin-bottom: 30px;
+}
+
 /* ============== Awesome ============= */
 .awesome-content {
 	padding: 70px 0px;
