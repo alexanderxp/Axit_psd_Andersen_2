@@ -67,6 +67,7 @@ a {
 	right: 0px;
 	bottom: 0px;
 	background-color: rgba(0,0,0,0.5);
+	background-image: url("img/logo.jpg");
 	z-index: 5;
 }
 
