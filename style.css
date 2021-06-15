@@ -265,6 +265,10 @@ a {
 	cursor: pointer;
 }
 
+.tabs-column1-box:hover {
+	background-color: orange;
+}
+
 .tabs-column2 {
 	flex: 5;
 	margin-left: 150px;
