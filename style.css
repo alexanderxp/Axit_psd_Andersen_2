@@ -282,6 +282,19 @@ a {
 	margin-bottom: 40px;
 }
 
+.tabs-column2-link {
+	padding: 10px 20px;
+	color: white;
+	font-weight: 600;
+	background-color: orange;
+	border-radius: 5px;
+	box-shadow: 0px 1px 2px grey;
+}
+.tabs-column2-link:hover, .tabs-column2-link:focus {
+	outline: none;
+	background-color: #ea8f4c;
+	box-shadow: none;	
+
 /* ============== Awesome ============= */
 .awesome-content {
 	padding: 70px 0px;
