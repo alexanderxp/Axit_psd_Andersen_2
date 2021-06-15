@@ -231,6 +231,23 @@ a {
 	align-items: center;
 }
 
+.tab {
+	display: flex;
+	width: 100%;
+}
+.tabs {
+	will-change: transform;
+	transition: transform 1s;
+}
+.tab2, .tab3 {
+	position: absolute;
+	top: 0px;
+	left: 100%;
+}
+.tab3 {
+	left: 200%;
+}
+
 /* ============== Awesome ============= */
 .awesome-content {
 	padding: 70px 0px;
