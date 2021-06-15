@@ -294,10 +294,22 @@ a {
 	border-radius: 5px;
 	box-shadow: 0px 1px 2px grey;
 }
+
 .tabs-column2-link:hover, .tabs-column2-link:focus {
 	outline: none;
 	background-color: #ea8f4c;
 	box-shadow: none;	
+}
+
+.tabs-column3 {
+	margin: 0px 20px 0px 4%;
+	flex: 3;
+
+}
+
+.tabs-column3-img {
+	max-width: 100%;
+}
 
 /* ============== Awesome ============= */
 .awesome-content {
