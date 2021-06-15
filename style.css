@@ -210,6 +210,26 @@ a {
 	color: rgba(0,0,0,0.6);
 }
 
+/* ========== Features (Tabs) ========= */
+.tabs-container {
+	background-color: grey;
+	position: relative;
+	overflow: hidden;
+}
+
+.tabs-content {
+	position: relative;
+	padding: 70px 0px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.tabs-switch {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
 
 /* ============== Awesome ============= */
 .awesome-content {
