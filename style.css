@@ -194,6 +194,21 @@ a {
 	color: grey;
 }
 
+.social-icons {
+	margin: 0px 20px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 60%;
+}
+.social-icons-link {
+	color: grey;
+	font-size: 2rem;
+}
+.social-icons-link:hover {
+	color: rgba(0,0,0,0.6);
+}
+
 
 /* ============== Awesome ============= */
 .awesome-content {
