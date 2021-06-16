@@ -127,12 +127,13 @@ a {
 	align-self: center;
 	background-color: white;
 	margin: 0px 20px; 
-	border-radius: 0px 0px 4px 4px;
+	border-radius: 5px 5px 5px 5px;
 }
 .home-form-heading {
 	padding: 15px 25px;
 	text-align: center;
 	background-color: lightgrey;
+	border-radius: 4px 4px 0px 0px;
 }
 .home-form-span {
 	text-transform: uppercase;
