@@ -512,6 +512,26 @@ a {
 	align-items: flex-end;
 }
 
+.pricing-box {
+	width: 30%;
+	text-align: center;
+}
+
+.pricing-box-heading {
+	color: white;
+	background-color: #333333;
+	padding: 10px 0px;
+	margin-bottom: 1px;
+}
+
+.pricing-box-number {
+	padding: 10px 0px;
+	font-size: 3.5rem;
+	background-color: #333333;
+	color: white;
+	font-weight: 700;
+}
+
 
 /* ============== Contact ============= */
 .contact-form {
