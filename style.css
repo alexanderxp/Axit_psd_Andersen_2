@@ -225,6 +225,11 @@ a {
 	align-items: center;
 }
 
+.tabs-column {
+	width: calc(100% - 40px);
+	margin-bottom: 40px;
+}
+
 /* ======= Features2 (Sublist) ======== */
 
 .sublist-content {
