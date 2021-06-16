@@ -547,6 +547,9 @@ a {
 	border-bottom: 5px solid #ff8b38;
 }
 
+.pricing-no-border {
+	border: none;
+}
 
 /* ============== Contact ============= */
 .contact-form {
