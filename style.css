@@ -212,7 +212,7 @@ a {
 
 /* ========== Features (Tabs) ========= */
 .tabs-container {
-	background-color: grey;
+	background-color: white;
 	position: relative;
 	overflow: hidden;
 }
@@ -396,7 +396,7 @@ a {
 
 /* ======= Features3 (Picture) ======== */
 .picture-container {
-	background-color: grey;
+	background-color: white;
 }
 .picture-text {
 	width: 45%;
@@ -405,6 +405,26 @@ a {
 .picture-heading {
 	font-size: 1.3rem;
 	margin-bottom: 20px;
+}
+
+.picture-line {
+	height: 2px;
+	width: 10%;
+	background-color: orange;
+	margin-bottom: 20px;
+}
+.picture-par {
+	color: grey;
+	line-height: 1.7;
+	margin-bottom: 20px;
+}
+
+.picture-img-container {
+	width: 45%;
+	margin-right: 20px;
+}
+.picture-img {
+	max-width: 100%;
 }
 
 /* ============== Awesome ============= */
