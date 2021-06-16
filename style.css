@@ -652,6 +652,26 @@ a {
 	position: relative;
 }
 
+.testimonials-box-person {
+	display: flex;
+	align-items: center;
+}
+
+.textimonials-text-img {
+	margin: 0px 20px;
+}
+
+.testimonials-box-name {
+	font-size: 1.1rem;
+	margin-bottom: 5px;
+}
+
+.testimonials-box-title {
+	font-size: 0.9rem;
+	font-weight: 500;
+	color: grey;
+}
+
 /* ============== Contact ============= */
 .contact-form {
     align-items: center;
