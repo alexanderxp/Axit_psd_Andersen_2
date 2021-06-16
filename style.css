@@ -289,6 +289,25 @@ a {
 	max-width: 100%;
 }
 
+.tabs-column2-text {
+	color: gray;
+	margin-bottom: 20px;
+	line-height: 1.7;
+	margin-bottom: 40px;
+}
+
+.tabs-column2-link {
+	padding: 10px 20px;
+	color: white;
+	font-weight: 600;
+	background-color: #ea8f4c;
+	border-radius: 5px;
+}
+
+.tabs-column2-link:hover, .tabs-column2-link:focus {
+	outline: none;
+	background-color: #ea8f4c;
+}
 
 /* ======= Features2 (Sublist) ======== */
 
