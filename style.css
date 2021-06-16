@@ -389,6 +389,7 @@ a {
 
 .picture-text {
     width: calc(100% - 5%);
+	float:left;
 }
 
 .picture-img-container {
