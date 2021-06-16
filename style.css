@@ -427,6 +427,22 @@ a {
 	max-width: 100%;
 }
 
+.picture-content {
+	flex-direction: column;
+}
+
+.picture-text, .picture-img-container {
+		width: calc(100% - 40px);
+}
+
+.picture-img-container {
+	margin: 0px;
+}
+
+.picture-content {
+	padding: 40px 0px;
+}
+
 /* ============== Awesome ============= */
 .awesome-content {
 	padding: 70px 0px;
