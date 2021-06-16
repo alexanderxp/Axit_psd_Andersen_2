@@ -249,6 +249,14 @@ a {
 	cursor: pointer;
 }
 
+.tabs-border-radius {
+	border-radius: 3px 3px 0px 0;
+}
+
+.tabs-border-radius2 {
+	border-radius: 0px 0px 3px 3px;
+}
+
 .active {
 	background-color: #ea8f4c;
 }
