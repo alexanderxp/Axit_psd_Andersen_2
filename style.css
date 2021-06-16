@@ -281,7 +281,13 @@ a {
 	margin-bottom: 30px;
 }
 
-
+.tabs-column3 {
+	margin: 0px 20px 0px 4%;
+	flex: 3;
+}
+.tabs-column3-img {
+	max-width: 100%;
+}
 
 
 /* ======= Features2 (Sublist) ======== */
