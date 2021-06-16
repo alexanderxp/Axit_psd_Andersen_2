@@ -504,6 +504,13 @@ a {
 	background-color: white;
 }
 
+.pricing-heading {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 500;
+	margin-bottom: 30px;
+}
+
 .pricing-box-container {
 	display: flex;
 	justify-content: space-around;
