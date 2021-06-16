@@ -674,6 +674,7 @@ a {
 
 /* ========== Custom (Design) ========= */
 .design-content {
+	padding: 40px 0px;
 	position: relative;
 	z-index: 10;
 }
