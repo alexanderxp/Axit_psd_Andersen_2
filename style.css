@@ -127,6 +127,7 @@ a {
 	align-self: center;
 	background-color: white;
 	margin: 0px 20px; 
+	border-radius: 0px 0px 4px 4px;
 }
 .home-form-heading {
 	padding: 15px 25px;
@@ -164,6 +165,7 @@ a {
 	font-size: 1rem;
 	padding: 15px 0px;
 	cursor: pointer;
+	border-radius: 0px 0px 4px 4px;
 }
 
 .home-form-submit:hover {
