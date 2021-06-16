@@ -395,7 +395,17 @@ a {
 }
 
 /* ======= Features3 (Picture) ======== */
-
+.picture-container {
+	background-color: grey;
+}
+.picture-text {
+	width: 45%;
+	margin-left: 20px;
+}
+.picture-heading {
+	font-size: 1.3rem;
+	margin-bottom: 20px;
+}
 
 /* ============== Awesome ============= */
 .awesome-content {
