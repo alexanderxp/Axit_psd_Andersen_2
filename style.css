@@ -49,6 +49,7 @@ a {
 	margin-right: 25px;
 	opacity: 0.75;
 	transition: opacity 1s lenear;
+	font-family: 'Open Sans Semibold';
 }
 
 .header-nav-link:last-child {
