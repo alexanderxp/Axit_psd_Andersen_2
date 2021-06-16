@@ -259,6 +259,17 @@ a {
 	background-color: #ea8f4c;
 }
 
+.tabs {
+	will-change: transform;
+	transition: transform 1s;
+	border-radius: 5px 5px 0;
+}
+
+.tab {
+	display: flex;
+	width: 100%;
+}
+
 
 
 
