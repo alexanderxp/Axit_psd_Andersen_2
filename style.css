@@ -47,9 +47,17 @@ a {
 .header-nav-link {
 	color: white;
 	margin-right: 25px;
+	opacity: 0.75;
+	transition: opacity 1s lenear;
 }
+
 .header-nav-link:last-child {
 	margin-right: 0px;
+}
+
+.header-nav-link:hover {
+	color: #ea8f4c;
+	opacity: 1;
 }
 
 /* ============== Home ============= */
