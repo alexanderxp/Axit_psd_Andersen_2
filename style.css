@@ -811,6 +811,20 @@ footer{
     text-align: center;
 }
 
+.div_footer{
+    padding-top: 18px;
+}
+.div_footer a{
+    font-size: 20px;
+    margin-right: 20px;
+    color: white;
+    transition: 0.5s;
+}
+
+.div_footer a:hover{
+    color: #ff8b38;
+}
+
 footer p{
     padding: 8px 0;
     font-family: "Open Sans";
