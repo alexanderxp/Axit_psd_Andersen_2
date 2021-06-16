@@ -711,6 +711,16 @@ a {
     margin-right: auto;
 }
 
+.design-link {
+	color: white;
+	border: 2px solid white;
+	padding: 10px 25px;
+}
+
+.design-link:hover {
+	color: black;
+	background-color: white;
+}
 
 /* ============== Contact ============= */
 .contact-form {
