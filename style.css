@@ -219,7 +219,7 @@ a {
 
 .tabs-content {
 	position: relative;
-	padding: 70px 0px;
+	padding: 155px 0px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -232,14 +232,15 @@ a {
 
 .tabs-column1 {
 	position: absolute;
-	top: 130px;
+	top: 145px;
 	left: 20px;
 	z-index: 100;
 }
 
 .tabs-column1-box {
 	padding: 25px 20px;
-	width: 40px;
+	width: 50px;
+	height: 45px;
 	background-color: black;
 	color: white;
 	text-align: center;
@@ -298,18 +299,20 @@ a {
 
 .tabs-column2-text {
 	color: gray;
-	margin-bottom: 20px;
+	margin-bottom: 35px;
+	margin-left: 45px;
 	line-height: 1.7;
-	margin-bottom: 40px;
+	font-size: 13px;
 }
 
 .tabs-column2-link {
 	padding: 10px 20px;
+	margin-top: 140px;
 	margin-left: 100px;
 	color: white;
 	font-weight: 600;
 	background-color: #ea8f4c;
-	border-radius: 5px;
+	border-radius: 4px;
 }
 
 .tabs-column2-link:hover, .tabs-column2-link:focus {
