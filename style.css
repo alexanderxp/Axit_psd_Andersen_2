@@ -378,50 +378,23 @@ a {
 .picture-container {
 	background-color: white;
 }
+
+.picture-content {
+    flex-direction: column;
+    padding: 40px 0px;         /* padding: 70px 0px; */
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
 .picture-text {
-	width: 45%;
-	margin-left: 20px;
-}
-.picture-heading {
-	font-size: 1.3rem;
-	margin-bottom: 20px;
-}
-
-.picture-line {
-	height: 2px;
-	width: 10%;
-	background-color: #ea8f4c;
-	margin-bottom: 20px;
-}
-.picture-par {
-	color: grey;
-	line-height: 1.7;
-	margin-bottom: 20px;
+    width: calc(100% - 5%);
 }
 
 .picture-img-container {
-	width: 45%;
-	margin-right: 20px;
-}
-.picture-img {
-	max-width: 100%;
+    width: calc(100% - 100%);
 }
 
-.picture-content {
-	flex-direction: column;
-}
-
-.picture-text, .picture-img-container {
-		width: calc(100% - 40px);
-}
-
-.picture-img-container {
-	margin: 0px;
-}
-
-.picture-content {
-	padding: 40px 0px;
-}
 
 /* ======= Our Process (Awesome) ====== */
 .awesome-content {
