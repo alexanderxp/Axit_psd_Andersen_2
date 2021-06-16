@@ -551,6 +551,24 @@ a {
 	border: none;
 }
 
+.pricing-box-text {
+	color: rgba(0,0,0, 0.5);
+	font-size: 0.9rem;
+	padding: 10px 0px;
+	text-transform: uppercase;
+	background-color: white;
+	margin-bottom: 1px;
+}
+
+.pricing-box-title2 {
+	color: white;
+	padding: 10px 0px;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 0.8rem;
+	background-color: #ff8b38;
+}
+
 /* ============== Contact ============= */
 .contact-form {
     align-items: center;
