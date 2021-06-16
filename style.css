@@ -638,6 +638,20 @@ a {
 	align-items: center;
 } 
 
+.testimonials-box {
+	width: 30%;
+}
+
+.testimonials-box-text {
+	background-color: white;
+	padding: 25px 15px;
+	color: grey;
+	line-height: 1.5;
+	font-style: italic;
+	margin-bottom: 40px;
+	position: relative;
+}
+
 /* ============== Contact ============= */
 .contact-form {
     align-items: center;
