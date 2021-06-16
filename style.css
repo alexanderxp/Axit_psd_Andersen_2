@@ -499,6 +499,20 @@ a {
     color: gray;
 }
 
+/* ============== Pricing ============= */
+.pricing-container {
+	background-color: white;
+}
+
+.pricing-box-container {
+	display: flex;
+	justify-content: space-around;
+	margin: 0px 20px;
+	width: calc(100% - 40px);
+	align-items: flex-end;
+}
+
+
 /* ============== Contact ============= */
 .contact-form {
     align-items: center;
