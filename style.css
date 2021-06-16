@@ -745,7 +745,8 @@ a {
 }
 
 .contact-form {
-    flex-direction: column;
+	width: 100%;
+    float: left;
 }
 
 .form-input-container {
