@@ -500,8 +500,9 @@ a {
 }
 
 /* ============== Pricing ============= */
-.pricing-container {
-	background-color: white;
+.pricing-content {
+	padding: 40px 0px;
+	align-items: center;
 }
 
 .pricing-heading {
@@ -509,6 +510,26 @@ a {
 	text-transform: uppercase;
 	font-weight: 500;
 	margin-bottom: 30px;
+}
+
+.pricing-line {
+	height: 2px;
+	width: 10%;
+	background-color: orange;
+	margin-bottom: 30px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.pricing-text {
+	color: grey;
+	line-height: 1.7;
+	margin-bottom: 70px;
+	text-align: center;
+}
+
+.pricing-container {
+	background-color: white;
 }
 
 .pricing-box-container {
@@ -575,6 +596,8 @@ a {
 	font-size: 0.8rem;
 	background-color: #ff8b38;
 }
+
+
 
 /* ============== Contact ============= */
 .contact-form {
