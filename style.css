@@ -532,6 +532,21 @@ a {
 	font-weight: 700;
 }
 
+.pricing-dollar {
+	font-weight: 600;
+	font-size: 1.7rem;
+}
+
+.pricing-box-title {
+	background-color: #333333;
+	color: rgba(255,255,255, 0.7);
+	font-style: italic;
+	font-weight: 500;
+	font-size: 0.8rem;
+	padding-bottom: 20px;
+	border-bottom: 5px solid #ff8b38;
+}
+
 
 /* ============== Contact ============= */
 .contact-form {
