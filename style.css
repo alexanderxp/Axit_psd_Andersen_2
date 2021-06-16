@@ -242,7 +242,6 @@ a {
 	width: 50px;
 	height: 45px;
     line-height: 45px;
-    vertical-align: center;
 	background-color: black;
 	color: white;
 	text-align: center;
@@ -317,11 +316,11 @@ a {
 	font-weight: 600;
 	background-color: #ea8f4c;
 	border-radius: 4px;
+    cursor: pointer;
 }
 
-.tabs-column2-link:hover, .tabs-column2-link:focus {
-	outline: none;
-	background-color: #ea8f4c;
+.tabs-column2-link:hover {
+	background-color: #000000;
 }
 
 /* ======= Features2 (Sublist) ======== */
