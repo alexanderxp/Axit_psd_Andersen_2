@@ -688,6 +688,10 @@ a {
 
 .design-heading {
 	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 500;
+	margin-bottom: 30px;
 }
 .design-text {
 	color: rgba(255,255,255, 0.6);
