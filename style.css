@@ -251,6 +251,14 @@ a {
 	
 }
 
+.active {
+	background-color: #ea8f4c;
+}
+
+.tabs-column1-box:hover {
+	background-color: #ea8f4c;
+}
+
 
 
 
