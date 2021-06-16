@@ -40,7 +40,7 @@ a {
 	font-size: 2rem;
 }
 .header-logo-span {
-	color: orange;
+	color: #ea8f4c;
 	font-weight: 400;
 }
 
@@ -90,7 +90,7 @@ a {
 	margin-bottom: 10px;
 }
 .home-heading-span {
-	color: orange;
+	color: #ea8f4c;
 	font-weight: 400px;
 }
 
@@ -135,7 +135,7 @@ a {
 }
 .home-form-span {
 	text-transform: uppercase;
-	color: orange;
+	color: #ea8f4c;
 }
 
 .home-form-input, .contact-form-input {
@@ -156,7 +156,7 @@ a {
 }
 .home-form-submit {
 	width: 100%;
-	background-color: orange;
+	background-color: #ea8f4c;
 	text-align: center;
 	border: none;
 	display: block;
@@ -251,7 +251,7 @@ a {
 .sublist-line {
 	height: 2px;
 	width: 10%;
-	background-color: orange;
+	background-color: #ea8f4c;
 	margin-bottom: 20px;
 }
 .sublist-par {
@@ -292,7 +292,7 @@ a {
 .picture-line {
 	height: 2px;
 	width: 10%;
-	background-color: orange;
+	background-color: #ea8f4c;
 	margin-bottom: 20px;
 }
 .picture-par {
@@ -342,7 +342,7 @@ a {
 .awesome-line {
 	height: 2px;
 	width: 10%;
-	background-color: orange;
+	background-color: #ea8f4c;
 	margin-bottom: 30px;
 }
 
@@ -397,7 +397,7 @@ a {
 .pricing-line {
 	height: 2px;
 	width: 10%;
-	background-color: orange;
+	background-color: #ea8f4c;
 	margin-bottom: 30px;
 	margin-left: auto;
     margin-right: auto;
@@ -497,7 +497,7 @@ a {
 .testimonials-line {
 	height: 2px;
 	width: 10%;
-	background-color: orange;
+	background-color: #ea8f4c;
 	margin-bottom: 30px;
 }
 
@@ -645,7 +645,7 @@ a {
 .contact-line {
 	height: 2px;
 	width: 10%;
-	background-color: orange;
+	background-color: #ea8f4c;
 	margin-bottom: 30px;
 }
 
@@ -673,7 +673,7 @@ a {
 	padding: 10px 20px;
 	color: white;
 	font-weight: 600;
-	background-color: orange;
+	background-color: #ea8f4c;
 	border-radius: 5px;
 	box-shadow: 0px 1px 2px grey;
 }
