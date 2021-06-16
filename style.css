@@ -270,6 +270,17 @@ a {
 	width: 100%;
 }
 
+.tabs-column2 {
+	flex: 5;
+	margin: 0px 20px;
+	margin-left: 150px;
+}
+
+.tabs-column2-heading {
+	font-size: 1.3rem;
+	margin-bottom: 30px;
+}
+
 
 
 
