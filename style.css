@@ -701,6 +701,38 @@ a {
 }
 
 /* ============== Contact ============= */
+.contact-container {
+	background-color: white;
+}
+
+.contact-content {
+	padding: 70px 0px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.contact-heading {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 500;
+	margin-bottom: 30px;
+}
+
+.contact-line {
+	height: 2px;
+	width: 10%;
+	background-color: #ea8f4c;
+	margin-bottom: 30px;
+}
+
+.contact-text {
+	color: gray;
+	line-height: 1.7;
+	margin-bottom: 70px;
+	text-align: center;
+}
+
 .contact-form {
     align-items: center;
 }
@@ -712,13 +744,37 @@ a {
 	margin: 0px 20px;
 }
 
+.contact-form {
+    flex-direction: column;
+}
+
+.form-input-container {
+	width: 50%;
+	margin-bottom: 20px;
+}
+
+.contact-form-input {
+	border: none;
+	width: calc(100% - 105px);
+	margin: 20px 40px;
+	padding: 10px 10px;
+	font-size: 1rem;
+	border: 2px solid white;
+	border-bottom: 2px solid grey;
+}
+
+.form-textarea-container {
+	width: 50%;
+	margin-bottom: 20px;
+}
+
 .contact-form-textarea {
 	height: 183px;
 	resize: none;
 }
 
-.contact-form {
-    flex-direction: column;
+.form-submit-container {
+	width: 100%;
 }
 
 .contact-form-submit {
@@ -728,37 +784,9 @@ a {
 	cursor: pointer;
 }
 
-.contact-text {
-	color: gray;
-	line-height: 1.7;
-	margin-bottom: 70px;
-	text-align: center;
-}
-
-.contact-line {
-	height: 2px;
-	width: 10%;
-	background-color: #ea8f4c;
-	margin-bottom: 30px;
-}
-
-.contact-heading {
-	text-align: center;
-	text-transform: uppercase;
-	font-weight: 500;
-	margin-bottom: 30px;
-}
-
-.contact-content {
-	padding: 70px 0px;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-}
-
 .contact-form-submit:hover, .contact-form-submit:focus {
 	outline: none;
-	background-color: #ea8f4c;
+	background-color: #000000;
 	box-shadow: none;	
 }
 
@@ -769,15 +797,6 @@ a {
 	background-color: #ea8f4c;
 	border-radius: 5px;
 	box-shadow: 0px 1px 2px grey;
-}
-
-.form-input-container, .form-textarea-container {
-	width: 50%;
-	margin-bottom: 20px;
-}
-
-.form-submit-container {
-	width: 100%;
 }
 
 /* ============== Footer ============= */
