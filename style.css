@@ -38,6 +38,7 @@ a {
 .header-logo {
 	color: white;
 	font-size: 2rem;
+	font-family: 'Raleway', sans-serif;
 }
 .header-logo-span {
 	color: #ea8f4c;
@@ -97,6 +98,7 @@ a {
 .home-heading {
 	font-size: 3.5rem;
 	margin-bottom: 10px;
+	font-family: 'Raleway', sans-serif;
 }
 .home-heading-span {
 	color: #ea8f4c;
@@ -442,6 +444,8 @@ a {
 	text-transform: uppercase;
 	font-weight: 500;
 	margin-bottom: 30px;
+	font-size: 32px;
+	font-family: 'Raleway', sans-serif;
 }
 
 .awesome-line {
@@ -497,6 +501,8 @@ a {
 	text-transform: uppercase;
 	font-weight: 500;
 	margin-bottom: 30px;
+	font-size: 32px;
+	font-family: 'Raleway', sans-serif;
 }
 
 .pricing-line {
@@ -597,6 +603,8 @@ a {
 	text-transform: uppercase;
 	font-weight: 500;
 	margin-bottom: 30px;
+	font-size: 32px;
+	font-family: 'Raleway', sans-serif;
 }
 
 .testimonials-line {
@@ -682,6 +690,8 @@ a {
 	text-transform: uppercase;
 	font-weight: 500;
 	margin-bottom: 30px;
+	font-size: 32px;
+	font-family: 'Raleway', sans-serif;
 }
 .design-text {
 	color: rgba(255,255,255, 0.6);
@@ -689,6 +699,7 @@ a {
 	color: gray;
 	line-height: 1.7;
 	text-align: center;
+	
 }
 
 .design-line {
