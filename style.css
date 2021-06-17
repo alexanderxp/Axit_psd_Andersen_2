@@ -727,10 +727,12 @@ a {
 .contact-heading {
 	text-align: center;
 	text-transform: uppercase;
-	font-weight: 600;
+	font-weight: 500;
 	margin-bottom: 30px;
 	font-size: 32px;
 	font-family: 'Raleway', sans-serif;
+	color: #212121;
+	-webkit-font-smoothing: antialiased;
 }
 
 .contact-line {
