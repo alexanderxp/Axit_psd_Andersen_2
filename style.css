@@ -890,12 +890,12 @@ footer p{
   height: 40px;                                
   margin-right: 4px;                          
   background-color: #fff;                     
-  border: 1px solid #e8ecee;                 
+  border: 1px solid #fff;                 
   transition: background .1s linear;          
 }                                             
 
 .social__item:hover {                            
-  background-color: #e8ecee;                  
+  background-color: #fff;                  
 }                                              
 
 .social__item:hover .social__icon {             
