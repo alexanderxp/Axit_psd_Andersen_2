@@ -37,12 +37,14 @@ a {
 }
 .header-logo {
 	color: white;
-	font-size: 2rem;
+	font-size: 35px;
 	font-family: 'Raleway', sans-serif;
 }
 .header-logo-span {
 	color: #ea8f4c;
+	font-size: 35px;
 	font-weight: 400;
+	font-family: 'Raleway', sans-serif;
 }
 
 .header-nav-link {
